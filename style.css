@@ -1,5 +1,5 @@
 body{
-	background-color: lightgreen;
+	background:linear-gradient(yellow,red, green,blue,pink,gray,orange,black,white);
 }
 #first{
 	background-color: lightblue;
